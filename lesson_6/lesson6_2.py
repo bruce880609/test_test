@@ -1,1 +1,1 @@
-print(type(vars))
+print(__name__)
